@@ -45,8 +45,6 @@ function NFTDropPage() {
             {address ? 'Sign Out': 'Sign In'}
             </button>
             
-            
-            
         </header>
 
         <hr className='my-2 border' />
@@ -57,7 +55,7 @@ function NFTDropPage() {
         <div className='mt-10 flex flex-col flex-1 items-center space-y-6 text-center lg:space-y-0 lg:justify-center'>
           <img className='w-80 object-cover pb-10 lg:h-40' src="https://dappradar.com/blog/static/934b5bc42c243282988b93e31069be28/dd3f5/dappradar.com-azuki-nfts-all-about-the-brands-past-present-future-azuki-nfts.png" alt="" />
           <h1 className='text-3xl font-bold lg:text-5xl lg:font-extrabold'> The ABD Coding Club | NFT Drop</h1>
-          <p className='pt-2 text-xl text-green-500'>2/90 NFT's claimed</p>
+          <p className='pt-2 text-xl text-green-500'>2/90 NFTs claimed</p>
         </div>
 
         {/** Mint Button */}
