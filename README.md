@@ -1,17 +1,8 @@
 
-# NFT Drop Dapp with NEXT.JS
+# NFT Drop Dapp with NEXT.JS (Done with this project because too easy)
 
 Takip ettiğim tutorial: https://youtu.be/_siRFuLEgGQ
 
-  
-
-## Day1:
-
- Responsive UI Design
-
-Tailwind CSS ile responsive UI tasarımı yapıldı.
-
-Thirweb ile metamask entagrasyonu yapıldı.
 
   
 
